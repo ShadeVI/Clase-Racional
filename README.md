@@ -17,3 +17,7 @@ Escriba el código para crear una clase denominada Racional que tenga dos atribu
 - Programe un menú de acciones en las que:
 1. Crear varios objetos racionales y mostrarlos por pantalla.
 2. Hacer las operaciones básicas programadas y mostrar los resultados por pantalla.
+
+#### Ejemplo salida en consola
+
+![ejemplo testing](Testing.jpg)
